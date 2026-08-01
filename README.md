@@ -25,7 +25,7 @@
 
 ## ✨ Sobre o Projeto
 
-O **Number Generator Pro** é uma aplicação web com visual **premium moderno**, projetada para gerar números aleatórios com uma experiência elegante e interativa.
+O **Number Generator Pro** é uma aplicação web projetada para gerar números aleatórios com uma experiência elegante e interativa.
 
 Inspirado em interfaces modernas, o projeto utiliza:
 
